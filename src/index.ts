@@ -8,3 +8,4 @@ const Flash = registerPlugin<FlashPlugin>('Flash', {
 
 export * from './definitions';
 export { Flash };
+
